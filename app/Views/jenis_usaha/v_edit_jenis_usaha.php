@@ -71,7 +71,7 @@ include(APPPATH . 'Views/main/link.php');
             <!-- /.content -->
         </div>
 
-        <?php include('main/v_footer.php'); ?>
+        <?php include(APPPATH . 'Views/main/v_footer.php'); ?>
 
         <!-- Control Sidebar -->
         <aside class="control-sidebar control-sidebar-dark">
